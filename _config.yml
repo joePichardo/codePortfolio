@@ -2,6 +2,7 @@
 title: CodePortfolio - A blog for my projects
 email: josephpichar@gmail.com
 description: A blog about my projects and material I find noteworthy. 
+baseurl: '/codeportfolio'
 url: "http://joepichardo.com" # the base hostname & protocol for your site
 twitter_username: PichardoJoe
 gems :
